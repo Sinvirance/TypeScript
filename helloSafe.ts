@@ -6,5 +6,7 @@ function helloSafe(words: string) {
     }
 }
 
-let word = 'world';
-console.log(helloSafe(word));
+{
+    let word = 'world';
+    console.log(helloSafe(word));
+}
