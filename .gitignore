@@ -1,2 +1,4 @@
 # TypeScript
 *.js
+
+node_modules/*
